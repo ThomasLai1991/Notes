@@ -1,0 +1,32 @@
+1.CSS is case sensitive!
+
+2. Three ways to use CSS, inline , head document, external file
+
+3. "color:red;" change the front color
+end the style with a semicolon ;
+
+4. <style> h2 {color:red;}</style>  insert a style block to apply css
+
+5. .class {color:red;}    use period and class name to create css class
+
+6. font-size: for setting front size
+
+7.font-family: for setting font
+
+8. import external font, using link, then 
+font-family:FAMILY_NAME,GENERIC_NAME
+FAMILY_NAME is case sensitive, "Open Sans" quotes are needed for font name with space, 
+GENERIC_NAME is fallback font and is optional
+
+9. several generic fonts are avaliable in all browsers, 
+they are case INSENSITIVE and need not quotes, as they are css keyword
+
+10. width:10px  width property to set width
+
+11. <img class="class1 class2 class3">multiple class apply to same element need spaces
+
+12. border-radius:10px to round corners
+
+13. border-radius:50% to round corners
+
+14.
