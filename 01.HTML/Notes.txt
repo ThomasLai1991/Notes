@@ -1,0 +1,54 @@
+1.Header Tag<h1></h1> to <h6></h6>
+
+2.<p> tag for main paragraph content
+
+3.Text placeholder: lorem ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.
+
+4.HTML commenting: <!-- -->
+
+5.HTML5 new tags: header, footer, nav, video, article, section, main.
+These tags help SEO and main tag helps search engine and other developers to
+find your pages.
+
+6.<img> tag is self-closing src="" for source alt="" for alternative text
+
+7.<a></a> tag (anchor) for external links out side of your pages
+href="" (stands for hyper reference?)
+
+8.<a href="#id"></a> can also be used for internal jumping
+
+9. Nest Link, <p>plain text<a>link</a></p> use anchor tag within other elements
+
+10. use href="#" as a dead link (link holder) within an <a> tag
+
+11. <a><img></a> use anchor tag to make an image a clickable link
+
+12.<ul></ul> for unorder list,<ol></ol> for ordered list <li></li> as list items
+
+13.<input type="text"> for text field
+
+14.<input type="text" placeholder=" text"> for place holder
+
+15.<form action="/someAction"></form> warp the input elements within form tag to submit stuff
+
+16.<button type="submit"></button> for submit button
+
+17.<input type="text" required> use required keyword to specify that use need to input something
+
+18.<label for="controlID"><input id="controlID" type="text"> Click this text to focus on input tag
+</label> label tag make mouse click associate with the control within(or use for to explicitly bond together)
+
+18.<input id="indoor" type="radio" name="indoor-outdoor"> the type radio indicates it is a radio button, 
+and different radio buttons with same name group will deselect others when select one.
+
+19.<input id="aID" type="checkbox" name="groupName"> checkbox example
+
+20.<input id="aID" type="checkbox" name="groupName" checked> use checked keyword to select default selection for checkbox and radio button.
+
+21.<div> tag to wrap things <br>(break) tag for new line
+
+
+22.You tell the browser this information by adding the <!DOCTYPE ...> tag on the first line, where the "..." part is the version of HTML. For HTML5, you use <!DOCTYPE html>.
+The ! and uppercase DOCTYPE is important, especially for older browsers. The html is not case sensitive.
+
+23.Metadata goes to <head></head>tag, main content goes to <body></body>tag 
